@@ -57,6 +57,8 @@ Se añadieron las columnas **Transaction_Price** y **Weekday** para permitir un 
 
 ## Análisis de Ventas y Conclusiones  
 
+En el informe se presenta un análisis más detallado, pero a continuación se resumen las principales conclusiones y los datos más relevantes:
+
 ### Indicadores Clave  
 
 - **214,470 productos vendidos** en seis meses.  
